@@ -57,4 +57,5 @@ Hi, I'm [Prasanth ts](https://Prasanthts.in/), a Data Science Enthusiast 🚀 fr
 <a href="https://Prasanthts.in/">
 <p align="center"> Visit My Website Here:
 </a>
-![Prasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanth-ts&show_icons=true&theme=radical)
+<br>
+[Prasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanth-ts&show_icons=true&theme=radical)

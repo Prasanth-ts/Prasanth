@@ -52,10 +52,8 @@ Hi, I'm [Prasanth ts](https://Prasanthts.in/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
 <br /><br />
-
+  [Prasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanth-ts&show_icons=true&theme=radical)
 <h2><i>Visit Me Here:</i></h2>
 <a href="https://Prasanthts.in/">
 <p align="center"> Visit My Website Here:
 </a>
-<br>
-[Prasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanth-ts&show_icons=true&theme=radical)

@@ -29,7 +29,7 @@ Hi, I'm [Prasanth ts](https://Prasanthts.in/), a Data Science Enthusiast 🚀 fr
 - 📫 How to reach me: www.Prasanthts.in;
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://Prasanthts.in/) 
-- 📝[Resume](https://Prasanthts/#contact)
+- 📝[Resume](https://Prasanthts.in/#contact)
   ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)

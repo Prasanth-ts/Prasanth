@@ -26,7 +26,7 @@ Hi, I'm [Prasanth ts](https://Prasanthts.in/), a Data Science Enthusiast 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques;
 - 💬 Brainstorm with me over tech, algorithms, career, and music
-- 📫 How to reach me: www.Prasanthts.in;
+- 📫 How to reach me: [www.Prasanthts.in](https://prasanthts.in)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://Prasanthts.in/) 
 - 📝[Resume](https://Prasanthts.in/#contact)
